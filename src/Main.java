@@ -11,5 +11,5 @@ void main() {
         IO.println("i = " + i);
     }
 
-    IO.println(String.format("hola "));
+    IO.println(String.format("hola buenas tardes 3.0"));
 }
